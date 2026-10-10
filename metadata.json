@@ -1,0 +1,6 @@
+{
+  "name": "Empathy Speciality Coffee",
+  "description": "Digital QR menu and admin management for Empathy Speciality Coffee in Qidfa, Fujairah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
